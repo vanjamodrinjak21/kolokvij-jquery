@@ -1,0 +1,93 @@
+[
+    {
+        "proizvodjac": "Samsung",
+        "logo": "samsung_logo.svg",
+        "model": "Galaxy S23",
+        "oznaka": "SM-S911B",
+        "god_proizv": 2023
+    },
+    {
+        "proizvodjac": "Apple",
+        "logo": "apple_logo.svg",
+        "model": "iPhone 14 Pro",
+        "oznaka": "A2890",
+        "god_proizv": 2022
+    },
+    {
+        "proizvodjac": "Google",
+        "logo": "google_logo.svg",
+        "model": "Pixel 7",
+        "oznaka": "GVU6C",
+        "god_proizv": 2022
+    },
+    {
+        "proizvodjac": "Samsung",
+        "logo": "samsung_logo.svg",
+        "model": "Galaxy Z Fold 5",
+        "oznaka": "SM-F946B",
+        "god_proizv": 2023
+    },
+    {
+        "proizvodjac": "Apple",
+        "logo": "apple_logo.svg",
+        "model": "iPhone 13",
+        "oznaka": "A2633",
+        "god_proizv": 2021
+    },
+    {
+        "proizvodjac": "Xiaomi",
+        "logo": "xiaomi_logo.svg",
+        "model": "14 Pro",
+        "oznaka": "23116PN5BC",
+        "god_proizv": 2024
+    },
+    {
+        "proizvodjac": "Samsung",
+        "logo": "samsung_logo.svg",
+        "model": "Galaxy S24 Ultra",
+        "oznaka": "SM-S928B",
+        "god_proizv": 2024
+    },
+    {
+        "proizvodjac": "OnePlus",
+        "logo": "oneplus_logo.svg",
+        "model": "12",
+        "oznaka": "CPH2583",
+        "god_proizv": 2024
+    },
+    {
+        "proizvodjac": "Google",
+        "logo": "google_logo.svg",
+        "model": "Pixel 4a",
+        "oznaka": "G025J",
+        "god_proizv": 2020
+    },
+    {
+        "proizvodjac": "Samsung",
+        "logo": "samsung_logo.svg",
+        "model": "Galaxy Note 20",
+        "oznaka": "SM-N980F",
+        "god_proizv": 2020
+    },
+    {
+        "proizvodjac": "Apple",
+        "logo": "apple_logo.svg",
+        "model": "iPhone SE (2nd gen)",
+        "oznaka": "A2296",
+        "god_proizv": 2020
+    },
+    {
+        "proizvodjac": "Xiaomi",
+        "logo": "xiaomi_logo.svg",
+        "model": "Mi 10 Pro",
+        "oznaka": "M2001J1G",
+        "god_proizv": 2020
+    },
+    {
+        "proizvodjac": "Samsung",
+        "logo": "samsung_logo.svg",
+        "model": "Galaxy S25 Ultra",
+        "oznaka": "SM-S930X",
+        "god_proizv": 2025
+    }
+] 
